@@ -8,7 +8,7 @@
 * [Carbon DID Web Method](https://github.com/filip26/carbon-did-web)
 * [Iron DID CEL Method](https://github.com/filip26/iron-did-cel)
 
-### 🔗 Semantic Web, Linked Data, RDF, Multiformats
+### 🌐 Semantic Web, Linked Data, RDF, Multiformats
 * [Titanium JSON-LD](https://github.com/filip26/titanium-json-ld)
 * [Iridium CBOR-LD](https://github.com/filip26/iridium-cbor-ld)
 * [LD CLI](https://github.com/filip26/ld-cli)
@@ -18,5 +18,5 @@
 * [Copper Multicodec](https://github.com/filip26/copper-multicodec)
 * [Copper Multibase](https://github.com/filip26/copper-multibase)
 
-## 💼  Commercial Support
+## 💼 Commercial Support
 Professional services, consulting, and project development are available. For inquiries, please contact: <filip26@gmail.com>
