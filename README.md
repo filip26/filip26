@@ -1,12 +1,13 @@
-### 🪪 Verifiable Credentials
-* [Iron Verifiable Credentials](https://github.com/filip26/iron-verifiable-credentials)
-* [Iron Cloud Functions](https://github.com/filip26/iron-cloud-functions)
 
 ### 🆔 Decentralized Identity
+* [Iron DID CEL Method](https://github.com/filip26/iron-did-cel)
 * [Carbon DID Core](https://github.com/filip26/carbon-did-core)
 * [Carbon DID Key Method](https://github.com/filip26/carbon-did-key)
 * [Carbon DID Web Method](https://github.com/filip26/carbon-did-web)
-* [Iron DID CEL Method](https://github.com/filip26/iron-did-cel)
+
+### 🪪 Verifiable Credentials
+* [Iron Verifiable Credentials](https://github.com/filip26/iron-verifiable-credentials)
+* [Iron Cloud Functions](https://github.com/filip26/iron-cloud-functions)
 
 ### 🌐 Semantic Web, Linked Data, RDF, Multiformats
 * [Titanium JSON-LD](https://github.com/filip26/titanium-json-ld)
